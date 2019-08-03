@@ -24,7 +24,7 @@ public class HelloAppEngine extends HttpServlet {
 		List<URL> urlList = new ArrayList<URL>();
 		// An example URL, change this with your preferred URL
 		/**
-		 ** Openshift version 2: Sunset
+		 ** Openshift Online Version 2: Sunset
 		 * urlList.add(new URL("http://mywildfly-emafazillah.rhcloud.com/"));
 		 * urlList.add(new URL("http://mywildflyrestv2-emafazillah.rhcloud.com/clinicspanels/count/"));
 		 * urlList.add(new URL("http://testcase2-emafazillahphp.rhcloud.com/"));
