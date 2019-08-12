@@ -1,4 +1,4 @@
 cron:
 - description: "Ping apps every 30 minutes"
   url: /hello
-  schedule: every 30 minutes
+  schedule: every 30 minutes from 11:00 to 13:00
